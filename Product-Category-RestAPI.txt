@@ -1,0 +1,15 @@
+Product Crud URL:
+
+1. @GetMapping("/products")
+2. @GetMapping("/productspaginated/{pageNo}/{pageSize}")
+3. @GetMapping("/products/{productId}")
+4. @PostMapping("/products")
+5. @PutMapping("/products")
+6. @DeleteMapping("/products/{productId}")
+
+Category Crud URL:
+
+1. @GetMapping("/categories/{categoryId}")
+2. @PostMapping("/categories")
+3. @PutMapping("/categories")
+4. @DeleteMapping("/categories/{CategoryId}")
