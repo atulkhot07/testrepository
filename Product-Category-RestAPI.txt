@@ -13,3 +13,5 @@ Category Crud URL:
 2. @PostMapping("/categories")
 3. @PutMapping("/categories")
 4. @DeleteMapping("/categories/{CategoryId}")
+
+I have attached screenshot of the table and REsrAPI Calls from Postman for your reference.
